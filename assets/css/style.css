@@ -1,0 +1,17 @@
+body {
+	background-image: url("../images/bground.jpg");
+}
+
+.exppanel {
+	font-size: 16px;
+}
+
+.fancy {
+	font-family: "Kaushan Script", cursive;
+	letter-spacing: 2px;
+}
+
+.contactimg {
+	width: 20%;
+	margin-right: 4%;
+}
