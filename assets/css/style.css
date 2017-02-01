@@ -19,3 +19,7 @@ body {
 a {
 	color: #00796b;
 }
+
+.page-footer {
+	background-color: teal;
+}
